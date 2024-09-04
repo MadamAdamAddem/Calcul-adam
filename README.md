@@ -6,6 +6,8 @@ Required SDL2, SDL2_image, SDL2_ttf, GMP and MPFR.
   - Can compile for both linux and windows!
   - Exquisite locally sourced art!
   - Unintuitive controls!
+  - Four line main loop!
+  - Function declaration art!
   - Includes 1 (one) easteregg!
 
 # Controls
