@@ -23,7 +23,7 @@ Just use the screen
  * Sqr: p
  * Eql: =
  * 0-9: 0-9
-   * K: ?
+ * K: ?
 * Sign: -
  * Dec: .
   
