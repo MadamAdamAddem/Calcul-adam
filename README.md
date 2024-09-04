@@ -10,7 +10,7 @@ Required SDL2, SDL2_image, SDL2_ttf, GMP and MPFR.
   - Function declaration art!
   - Includes 1 (one) easteregg!
 
-# Controls
+## Controls
 
 Just use the screen
 
