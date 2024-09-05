@@ -101,7 +101,7 @@ void initAll(int SCREENW, int SCREENH, SDL_Window** window, SDL_Renderer** rende
     tmpAppend.assign(basePath);
     tmpAppend.append("src/assets/calculator.ttf");
 
-    *window = ainitWindow("Vyvanse", SCREENW, SCREENH);
+    *window = ainitWindow("Calcul-adam", SCREENW, SCREENH);
     if(window == NULL)
         exit(1);
 
